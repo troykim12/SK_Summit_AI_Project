@@ -1,0 +1,4 @@
+opencv-python>=4.8.0
+pygame>=2.5.0
+ultralytics>=8.0.0
+pyyaml>=6.0
